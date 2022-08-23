@@ -175,3 +175,12 @@ a:hover {
     color: black;
     background-color: white;
 }
+
+/* Inserindo as info das paginas de cavaleiros */
+
+.container_mu {
+    margin: 50px 20px 20px;
+    border-color:#F5D451;
+    border-style: double;
+    border-width: 8px;
+}
